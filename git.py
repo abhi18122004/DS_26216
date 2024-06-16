@@ -35,3 +35,5 @@ for i in range (5) :
 if (k==5):
     animated_text("Congratulations you have won the maximum amount\n")
 animated_text("Your final winnings ",str(Dhan))
+
+# to kaisa laga ye program
