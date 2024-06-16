@@ -37,3 +37,4 @@ if (k==5):
 animated_text("Your final winnings ",str(Dhan))
 
 # to kaisa laga ye program
+#ye h editing from github
